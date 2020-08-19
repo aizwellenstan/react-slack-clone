@@ -1,10 +1,10 @@
 # React Template
 
 ## Features
-[v] Firebase Login
-[v] Firebase Prevent Duplicate Roomnames
-[v] Chat Scroll to bottom
-[v] React with env-variables in webpack
+- [v] Firebase Login
+- [v] Firebase Prevent Duplicate Roomnames
+- [v] Chat Scroll to bottom
+- [v] React with env-variables in webpack
 
 ## Tech stacks
 - [React](https://github.com/facebook/react) with Hooks
